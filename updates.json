@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 454048500,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 640688890,
+          "is_bot": false,
+          "first_name": "meow",
+          "username": "eptyentity",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 640688890,
+          "first_name": "meow",
+          "username": "eptyentity",
+          "type": "private"
+        },
+        "date": 1575690653,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
